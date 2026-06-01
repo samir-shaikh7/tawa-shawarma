@@ -1,0 +1,75 @@
+{
+  "brand": {
+    "name": "Tawa Shawarma",
+    "tagline": "Always Fresh & Delicious",
+    "description": "Serving fresh shawarma, burgers, sandwiches, pizza and snacks in Nanded."
+  },
+  "contact": {
+    "phone": "+91 9876543210",
+    "whatsapp": "919876543210",
+    "email": "contact@tawashawarma.com",
+    "address": "Necklace Road, Barkat Complex, Nanded",
+    "openingHours": "4:00 PM – 12:00 AM",
+    "days": "Open Daily"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/tawashawarma/",
+    "facebook": "https://www.facebook.com/tawashawarma/"
+  },
+  "reviews": [
+    {
+      "name": "Rahul M.",
+      "text": "Best shawarma in Nanded. Fresh and tasty. I order here every weekend with my family!",
+      "rating": 5
+    },
+    {
+      "name": "Priya S.",
+      "text": "Great food quality and quick service. The cheese shawarma is absolutely amazing.",
+      "rating": 5
+    },
+    {
+      "name": "Amit K.",
+      "text": "Affordable prices and delicious taste. Their peri peri fries are addictive!",
+      "rating": 5
+    },
+    {
+      "name": "Sneha D.",
+      "text": "Highly recommended for shawarma lovers. Clean place, friendly staff, and fresh food.",
+      "rating": 5
+    },
+    {
+      "name": "Vikram J.",
+      "text": "The chicken cheese pizza is worth every rupee. Best fast food spot in Nanded!",
+      "rating": 5
+    }
+  ],
+  "whyChooseUs": [
+    {
+      "icon": "Leaf",
+      "title": "Fresh Ingredients",
+      "description": "We source the freshest ingredients daily. No frozen meat, no shortcuts — just pure, fresh quality in every bite."
+    },
+    {
+      "icon": "Flame",
+      "title": "Authentic Taste",
+      "description": "Traditional recipes perfected over years. Our marinades, sauces, and spices are prepared in-house from scratch."
+    },
+    {
+      "icon": "ShieldCheck",
+      "title": "Hygienic Preparation",
+      "description": "Clean kitchen, hygiene-first approach. Every dish is prepared under strict quality and cleanliness standards."
+    },
+    {
+      "icon": "Clock",
+      "title": "Fast Service",
+      "description": "From our tawa to your plate in minutes. Whether dine-in or takeaway, we respect your time and hunger."
+    }
+  ],
+  "features": [
+    { "icon": "Leaf", "title": "Fresh Ingredients", "description": "Daily preparation with fresh, quality ingredients." },
+    { "icon": "ChefHat", "title": "Daily Preparation", "description": "Everything is cooked fresh — nothing is pre-made." },
+    { "icon": "ShieldCheck", "title": "Quality Checked", "description": "Strict quality checks on every single order." },
+    { "icon": "IndianRupee", "title": "Affordable Pricing", "description": "Premium taste at pocket-friendly prices." },
+    { "icon": "Clock", "title": "Fast Service", "description": "Quick service so you never have to wait long." }
+  ]
+}

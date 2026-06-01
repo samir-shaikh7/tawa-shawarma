@@ -1,0 +1,22 @@
+{
+    "rewrites": [
+        {
+            "source": "/sitemap.xml",
+            "destination": "/sitemap.xml"
+        },
+        {
+            "source": "/robots.txt",
+            "destination": "/robots.txt"
+        },
+        {
+            "source": "/(.*)",
+            "destination": "/"
+        }
+    ],
+    "crons": [
+        {
+            "path": "/api/ping",
+            "schedule": "0 0 */5 * *"
+        }
+    ]
+}
